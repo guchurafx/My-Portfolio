@@ -1,0 +1,13 @@
+img {
+  float: right;
+}
+
+.sidebar {
+  float: right;
+  color: blue;
+  font-size: large;
+}
+
+.main {
+  float: none;
+}
